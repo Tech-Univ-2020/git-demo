@@ -1,2 +1,3 @@
 initial commit
-conflicting line
+another commit
+home feature
