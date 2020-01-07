@@ -1,2 +1,2 @@
 initial commit
-another commit
+conflicting line
